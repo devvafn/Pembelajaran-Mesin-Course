@@ -1,1 +1,1 @@
-# Pembelajaran-Mesin-Minggu-1
+# Pembelajaran-Mesin-Course
